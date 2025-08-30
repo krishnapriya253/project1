@@ -1,0 +1,41 @@
+.inbox{
+    background-color:aqua;
+    padding: 10px 30px;
+}
+.sec2{
+    background-color: blueviolet;
+    padding: 100px 0;
+}
+.sec3{
+    background-color: brown;
+    padding: 100px 0;
+}
+.sec4{
+    background-color: aquamarine;
+    padding: 100px 0;
+}
+.inbox2{
+    text-align: center;
+}
+.sec5{
+    background-color: burlywood;
+    padding: 100px;
+    text-align: center;
+}
+.sec6{
+    background-color:darkolivegreen;
+    padding: 100px;
+    text-align: center;
+}
+.sec7{
+    background-color: crimson;
+    padding: 100px;
+    text-align: center;
+    font-style: italic;
+}
+.sec8{
+    background-color: cornflowerblue;
+    padding: 100px;
+    text-align: center;
+
+}

@@ -1,0 +1,6 @@
+xxl - extra extra large
+xl - extra large
+lg - large
+md - medium
+sm - small
+xs - extra small / col
